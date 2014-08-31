@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video_app_name">Odtwarzacz filmów</string>
+    <string name="scanning">Skanowanie karty SD...</string>
+    <string name="sdcard_missing_message">Twój telefon nie posiada włożonej karty SD.</string>
+    <string name="video_list_empty">Brak filmów na karcie SD.</string>
+    <string name="detail_title">Tytuł: %1$s</string>
+    <string name="detail_date_taken">Pobrany: %1$s</string>
+    <string name="detail_path">Ścieżka: %1$s</string>
+    <string name="detail_filesize">Rozmiar pliku: %1$s</string>
+    <string name="detail_duration">Czas trwania: %1$s</string>
+    <string name="media_detail">Szczegóły</string>
+    <string name="delete">Usuń</string>
+    <string name="delete_tip">Usunąć %1$s?</string>
+    <string name="delete_progress">Usuwanie %1$s ...</string>
+</resources>

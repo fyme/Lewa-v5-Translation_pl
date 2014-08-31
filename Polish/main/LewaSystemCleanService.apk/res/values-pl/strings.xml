@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Czyszczenie systemu</string>
+    <string name="menu_settings">Ustawienia</string>
+    <string name="title_activity_main">Moja Aktywność</string>
+    <string name="calculate_sdcard">Obliczanie karty SD</string>
+    <string name="calculate_size">Obliczanie rozmiaru</string>
+    <string name="clean_sdcard">Czyść kartę SD</string>
+    <string name="clean_sdcard_completed">Czyszczenie SD zakończone</string>
+    <string name="clean_log_file_name">Pliki logów</string>
+    <string name="clean_app_sdcard_cache_name">Pamięć podręczna cache</string>
+    <string name="clean_sdcard_cache_name">Pliki cache</string>
+    <string name="clean_sdcard_empty_file_name">Puste pliki</string>
+    <string name="clean_sdcard_mtk_log_name">Logi MTK</string>
+    <string name="clean_sdcard_thum_file_name">Pliki miniatur</string>
+</resources>

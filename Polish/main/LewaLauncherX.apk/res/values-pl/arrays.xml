@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="desktop_transition_effect_entries">
+        <item>Standard</item>
+        <item>Standard z odbiciem</item>
+        <item>Przybliż</item>
+        <item>Oddal</item>
+        <item>Obrót w górę</item>
+        <item>Obrót w dół</item>
+        <item>Spirala</item>
+        <item>Flip</item>
+        <item>Kostka do środka</item>
+        <item>Kostka na zewnątrz</item>
+        <item>Stos</item>
+        <item>Harmonia</item>
+        <item>Cylinder in</item>
+        <item>Cylinder out</item>
+        <item>Karuzela</item>
+    </string-array>
+    <string-array name="screen_layout">
+        <item>4 * 4</item>
+        <item>4 * 5</item>
+		<item>5 * 5</item>
+	</string-array>
+    <string-array name="screen_layout_value">
+        <item>4|4</item>
+        <item>5|4</item>
+		<item>5|5</item>
+    </string-array>
+    <string-array name="desktop_transition_effect">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>Stack</item>
+    </string-array>
+    <array name="extra_wallpapers" />
+</resources>

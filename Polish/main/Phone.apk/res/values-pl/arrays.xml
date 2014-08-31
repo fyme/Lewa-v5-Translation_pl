@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Raz</item>
+        <item>Zawsze</item>
+        <item>Nigdy</item>
+    </string-array>
+    <string-array name="gemini_sim_roaming_reminder_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="language_list_values">
+        <item>Wszystkie języki</item>
+        <item>German</item>
+        <item>English</item>
+        <item>Italian</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Dutch</item>
+        <item>Swedish</item>
+        <item>Danish</item>
+        <item>Portuguese</item>
+        <item>Finnish</item>
+        <item>Norwegian</item>
+        <item>Greek</item>
+        <item>Turkish</item>
+        <item>Hungarian</item>
+        <item>Polski</item>
+        <item>Others</item>
+        <item>Czech</item>
+        <item>Hebrew</item>
+        <item>Arabic</item>
+        <item>Russian</item>
+        <item>IceLandic</item>
+    </string-array>
+    <string-array name="vt_incall_setting_local_video_effect_values">
+        <item>brak</item>
+        <item>mono</item>
+        <item>sepia</item>
+        <item>negatyw</item>
+        <item>solarize</item>
+        <item>posterize</item>
+        <item>aqua</item>
+        <item>pastel</item>
+        <item>mosaic</item>
+        <item>red-tint</item>
+        <item>blue-tint</item>
+        <item>green-tint</item>
+        <item>blackboard</item>
+        <item>whiteboard</item>
+        <item>sepiablue</item>
+        <item>sepiagreen</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (domyślnie)</item>
+        <item>tylko WCDMA</item>
+        <item>tylko GSM</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_values">
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (domyślnie)</item>
+        <item>tylko TD-SCDMA</item>
+        <item>tylko GSM</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_values_cmcc">
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto mode)</item>
+        <item>WCDMA only</item>
+    </string-array>
+    <string-array name="umts_network_preferences_values">
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (auto mode)</item>
+        <item>TD-SCDMA only</item>
+    </string-array>
+    <string-array name="call_reject_mode_entries">
+        <item>Wył.</item>
+        <item>Wszystkie numery</item>
+        <item>Auto reject list</item>
+    </string-array>
+    <string-array name="call_reject_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="call_reject_dialog_array">
+        <item>Kontakty</item>
+        <item>Lista połączeń</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Domyślne sieci</item>
+        <item>Ukryj numer</item>
+        <item>Pokaż numer</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>DOMYŚLNIE</item>
+        <item>UKRYJ</item>
+        <item>POKAŻ</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>EvDo only</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo auto</item>
+        <item>GSM/WCDMA auto</item>
+        <item>WCDMA tylko</item>
+        <item>GSM tylko</item>
+        <item>GSM/WCDMA preferowane</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values">
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_lte">
+        <item>LTE/CDMA</item>
+        <item>CDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values_lte">
+        <item>7</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Chinese</item>
+        <item>Hebrew</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Home only</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="cdma_system_select_values">
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Off</item>
+        <item>TTY Full</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="tty_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normalny</item>
+        <item>Długi</item>
+    </string-array>
+    <string-array name="dtmf_tone_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Zawsze</item>
+        <item>Tylko gdy wyciszony</item>
+        <item>Nigdy</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_values">
+        <item>zawsze</item>
+        <item>wyciszony</item>
+        <item>nigdy</item>
+    </string-array>
+    <string-array name="dialpad_tone_types">
+        <item>Ton</item>
+        <item>Pianino</item>
+        <item>Gitara</item>
+        <item>Brak</item>
+    </string-array>
+    <string-array name="dialpad_tone_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_001d">false</item>
+    <item type="array" name="APKTOOL_DUMMY_001e">false</item>
+    <item type="array" name="APKTOOL_DUMMY_002c">false</item>
+    <item type="array" name="APKTOOL_DUMMY_002d">false</item>
+</resources>

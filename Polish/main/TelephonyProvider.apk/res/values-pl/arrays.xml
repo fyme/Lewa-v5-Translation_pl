@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_quick_texts">
+        <item>Gdzie jesteś?</item>
+        <item>Co robisz?</item>
+        <item>Pilne! Proszę zadzwoń do mnie jak wrócisz.</item>
+        <item>Przykro mi, jestem na spotkaniu.</item>
+        <item>Zadzwonię do Ciebie.</item>
+        <item>Czuję się dobrze, nie martw się o to.</item>
+        <item>Jestem w drodze do domu.</item>
+        <item>Wkrótce będę.</item>
+        <item>Do zobaczenia!</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d recent apps</item>
+        <item quantity="one">1 recent app</item>
+    </plurals>
+    <plurals name="notifilter_headernotice">
+        <item quantity="other">%d Notifications have been Blocked</item>
+        <item quantity="one">%d Notification has been Blocked</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dostawca motywów</string>
+    <string name="permlab_access_DrmThemeResources">czytaj media chronione przez DRM</string>
+    <string name="permdesc_access_DrmThemeResources">Zezwól aplikacji odczytywać media chronione przez DRM w Pakiecie motywów</string>
+    <string name="permlab_set_theme">Ustaw globalnie motyw</string>
+    <string name="permdesc_set_theme">Zezwalaj aplikacji na zmianę motywu wizualnego w telefonie.</string>
+    <string name="apply_font_failed">Zmiana czcionek nieudana.</string>
+</resources>

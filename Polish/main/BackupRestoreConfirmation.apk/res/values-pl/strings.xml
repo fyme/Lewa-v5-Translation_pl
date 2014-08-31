@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Pełny backup</string>
+    <string name="restore_confirm_title">Pełne przywrócenie backupu</string>
+    <string name="backup_confirm_text">"Żądanie pełnej kopia zapasowej wszystkich danych do podłączonego komputera. Chcesz na to pozwolić? Jeśli to nie ty  żądałeś kopii zapasowej nie zgadzaj się."</string>
+    <string name="allow_backup_button_label">Kopiuj moje dane</string>
+    <string name="deny_backup_button_label">Nie kopiuj</string>
+    <string name="restore_confirm_text">"Pełne przywracanie wszystkich danych z podłączonego komputera. Chcesz na to pozwolić? Jeśli tego nie żądałeś, nie pozwalaj na tę operację. Ta czynność zastąpi wszystkie dane na tym urządzeniu! "</string>
+    <string name="allow_restore_button_label">Przywróć moje dane</string>
+    <string name="deny_restore_button_label">Nie odtwarzaj danych</string>
+    <string name="current_password_text">Proszę podać bieżące hasło do kopii poniżej:</string>
+    <string name="device_encryption_restore_text">Proszę podać Twoje hasło do szyfrowania urządzenia poniżej.</string>
+    <string name="device_encryption_backup_text">Proszę podać Twoje hasło do szyfrowania urządzenia poniżej. Będzie ono wykorzystane do szyfrowania kopii archiwalnej danych.</string>
+    <string name="backup_enc_password_text">Wpisz hasło do szyfrowania pełnych danych kopii zapasowych. Jeśli zostawisz puste, będzie zastosowane aktualne hasło kopii zapasowej:</string>
+    <string name="backup_enc_password_optional">Jeśli chcesz zaszyfrować kopie zapasową danych, wpisz hasło poniżej:</string>
+    <string name="restore_enc_password_text">Jeżeli przywracane dane są zaszyfrowane, wpisz hasło poniżej:</string>
+    <string name="toast_backup_started">Kopiowanie rozpoczęte...</string>
+    <string name="toast_backup_ended">Kopiowanie zakończone</string>
+    <string name="toast_restore_started">Przywracanie rozpoczęte...</string>
+    <string name="toast_restore_ended">Przywracanie zakończone</string>
+    <string name="toast_timeout">Operacja przekroczyła oczekiwany czas</string>
+</resources>

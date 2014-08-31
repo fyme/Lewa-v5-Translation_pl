@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proxy_error">
+        <item>Pole Host nie może być puste</item>
+        <item>Pole Port nie może być puste</item>
+        <item>Niewłaściwy host</item>
+        <item>Niewłaściwy port</item>
+    </string-array>
+</resources>

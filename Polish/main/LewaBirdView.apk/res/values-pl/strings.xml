@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BirdView</string>
+    <string name="mb">MB</string>
+    <string name="gb">GB</string>
+    <string name="nosim">Brak danych</string>
+    <string name="nosim_set">Taryfa danych nie ustawiona</string>
+    <string name="used">Użyte</string>
+    <string name="surplus">Pozostało</string>
+    <string name="noalarm">Dodaj alarm</string>
+    <string name="off">Wył</string>
+    <string name="on">Wł</string>
+    <string name="alarm">Alarm</string>
+    <string name="power_on">Chroń</string>
+    <string name="power_surplus">Pozostało</string>
+    <string name="power_full">Ładowanie</string>
+    <string name="power_isfull">Naładowany</string>
+    <string name="power_h">h</string>
+    <string name="power_m">m</string>
+    <string name="torch">Latarka</string>
+    <string name="safe_scanning">Skanowanie...</string>
+    <string name="safe_scanning_error">Błąd skanowania, spróbuj ponownie później</string>
+    <string name="safe_status_one">Zdrowy</string>
+    <string name="safe_status_two">" dni nie skanowano"</string>
+    <string name="safe_status_three">nigdy nie optymalizowano</string>
+    <string name="clean_toast_str0">Optymalizacja przeprowadzona</string>
+    <string name="clean_toast_str1">"Zwolniono %1$d M pamięci
+Dostępnej pamięci jest %2$d M"</string>
+</resources>

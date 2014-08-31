@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Usługa połączeń komórkowych</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Anuluj</string>
+    <string name="confirm_radio_title">Karta SIM wyłączona</string>
+    <string name="confirm_radio_msg">%1$s jest wyłączona.Czy chcesz włączyć tą kartę SIM?</string>
+    <string name="confirm_radio_msg_single">Tryb samolotowy jest aktywny,czy chcesz wyłączyć?</string>
+    <string name="confirm_pin_title">Karta SIM zablokowana</string>
+    <string name="confirm_pin_msg">Wybrana karta SIM jest zablokowana.Odblokuj ją najpierw</string>
+    <string name="confirm_simmelock_msg">Wybrany slot SIM jest zablokowany.Najpierw odblokuj.</string>
+    <string name="confirm_fdn_title">FDN aktywny</string>
+    <string name="confirm_fdn_msg">Wybieranie ustalone jest aktywne</string>
+    <string name="confirm_roaming_title">Ostrzeżenie o roamingu</string>
+    <string name="confirm_roaming_msg">Karta którą zamierzasz użyć jest w roamingu.Lokalna karta SIM jest niedostępna.Kontynuować?</string>
+    <string name="confirm_roaming_withPrefer_msg">Karta którą zamierzasz użyć jest w roamingu.Czy chcesz kontynuować przez lokalna kartę SIM?</string>
+    <string name="confirm_roaming_lbutton">Kontynuuj</string>
+    <string name="confirm_roaming_rbutton">Anuluj</string>
+    <string name="confirm_roamingWithPrefer_lbutton">Karta SIM lokalna</string>
+    <string name="confirm_roamingWithPrefer_rbutton">Karta SIM w roamingu</string>
+    <string name="confirm_radio_lbutton">Włącz</string>
+    <string name="confirm_unlock_lbutton">Odblokuj</string>
+    <string name="confirm_unlock_fail">Operacja anulowana</string>
+    <string name="confirm_turnon_radio_fail">Operacja anulowana</string>
+    <string name="confirm_permit_roaming_fail">Anulowałeś akcję na karcie SIM w roamingu</string>
+    <string name="confirm_sim_locked_message">Karta SIM została całkowicie zablokowana</string>
+    <string name="confirm_slot_locked_message">Slot karty SIM został całkowicie zablokowany</string>
+    <string name="confrim_simmelock_title">SIM ME zablokowany</string>
+</resources>

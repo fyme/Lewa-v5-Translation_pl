@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dyktafon</string>
+    <string name="record_your_message">Nagraj swoją wiadomość</string>
+    <string name="message_recorded">Wiadomość nagrana</string>
+    <string name="review_message">Odsłuchaj wiadomość</string>
+    <string name="recording">Nagrywanie</string>
+    <string name="recording_stopped">Nagrywanie zatrzymane</string>
+    <string name="storage_is_full">Pamięć jest zapełniona</string>
+    <string name="max_length_reached">Osiągnięto maksymalną długość</string>
+    <string name="insert_sd_card">Karta SD nie została wykryta, sprawdź poprawność włożenia karty i współdzielenie zawartości karty SD z komputerem.</string>
+    <string name="min_available">%d minut dostępne</string>
+    <string name="sec_available">%ds sekund dostępne</string>
+    <string name="accept">Zrobione</string>
+    <string name="discard">Pomiń</string>
+    <string name="button_ok">OK</string>
+    <string name="timer_format_with_hour" formatted="false">%02d:%02d:%02d</string>
+    <string name="timer_format_without_hour" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="audio_db_artist_name">Twoje nagrania</string>
+    <string name="audio_db_album_name">Nagrania audio</string>
+    <string name="audio_db_playlist_name">Moje nagrania</string>
+    <string name="error_sdcard_access">Brak dostępu do karty SD</string>
+    <string name="error_app_internal">Wewnętrzny błąd aplikacji</string>
+    <string name="error_mediadb_new_record">Problem z zapisem nagranego materiału.</string>
+    <string name="error_app_recorder_occupied">Urządzenie nagrywające jest zajęte przez inna aplikację.</string>
+    <string name="unknown_artist_name">Nieznany artysta</string>
+    <string name="error_app_failed_title">Błąd w nagraniu.</string>
+    <string name="tell_save_record_success">Zapis udany.</string>
+    <string name="save_record">Zapisz</string>
+    <string name="spaceIsLow_content">Brak miejsca na karcie SD. Przerwij nagrywanie lub zwolnij miejsce na karcie SD.</string>
+    <string name="cancel">Anuluj</string>
+    <string name="rename_record_file">Zmień nazwę nagranego pliku</string>
+    <string name="file_already_exists">Plik już istnieje</string>
+    <string name="select_recording_format">Wybierz format nagrania</string>
+    <string name="recording_format_high">Wysoka</string>
+    <string name="recording_format_mid">Średnia</string>
+    <string name="recording_format_low">Niska</string>
+    <string name="three_mins_avail_total">Dostępne tylko 3 minuty.</string>
+    <string name="recorder_can_not_be_used">Nagrywanie niemożliwe w tej chwili.</string>
+    <string name="alert_delete_multiple">Te elementy zostaną usunięte.</string>
+    <string name="alert_delete_single">Ten element zostanie usunięty.</string>
+    <string name="ok">OK</string>
+    <string name="delete">Usuń</string>
+    <string name="deleting">Usuwanie</string>
+    <string name="no_recording_file">(brak nagrań)</string>
+    <string name="recording_file_list">Lista nagrań</string>
+    <string name="recording_paused">Pauza</string>
+    <string name="record_title">Nagrywanie</string>
+    <string name="play_title">Odtwarzanie</string>
+    <string name="time_zero">00:00</string>
+    <string name="delete_selected">Wybrany %s</string>
+    <string name="duration_timer_format_with_hour" formatted="false">%02dH%02dM%02dS</string>
+    <string name="duration_timer_format_without_hour" formatted="false">%02dM%02dS</string>
+    <string name="is_recording_can_not_use_play_function">Podczas nagrywania nie ma możliwości odtwarzania.</string>
+    <string name="is_playing_can_not_use_record_function">Podczas odtwarzania nie można nagrywać.</string>
+    <string name="menu_actionbar_selected_items">%s zaznaczono</string>
+    <string name="menu_multichoice_select_all">Zaznacz wszystko</string>
+    <string name="menu_multichoice_clear_select">Odznacz wszystko</string>
+    <string name="recording_notitication">Nagrywanie</string>
+    <string name="pause_record">Pauza</string>
+	<string name="tv_prompt">Tip: Naciśnij klawisz listy by zobaczyć spis nagrań </string>
+    <string name="sounder_file">Nagrane pliki</string>
+</resources>

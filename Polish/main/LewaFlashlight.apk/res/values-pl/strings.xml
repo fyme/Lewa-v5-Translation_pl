@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flashDevice">/sys/class/leds/flashlight/brightness</string>
+    <string name="app_name">Latarka</string>
+    <string name="prompt">Przy blokadzie ekranu, 
+	przyciśnij i przytrzymaj klawisz HOME aby włączyć latarkę</string>
+    <string name="errorCameraOpenTitle">Błąd aparatu</string>
+    <string name="errorCameraOpenMessage">Nie mogę się połączyć z aparatem, lub inna aplikacja jej używa</string>
+</resources>

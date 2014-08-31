@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_label">Blokada EM SIM ME</string>
+    <string name="simmelock_name">Blokada SIM ME</string>
+    <string name="strInputPassword">Proszę wprowadzić hasło :</string>
+    <string name="strConfirm">Zakończ</string>
+    <string name="strCancel">Anuluj</string>
+    <string name="strInputChancesleft">Pozostało prób :</string>
+    <string name="strMCCMNC">MCC+MNC :</string>
+    <string name="strMCCMNCHLR">MCC+MNC+HLR :</string>
+    <string name="strGID1">GID1 :</string>
+    <string name="strGID2">GID2 :</string>
+    <string name="strInputPasswordAgain">Proszę wprowadzić hasło ponownie :</string>
+    <string name="strIMSI">IMSI :</string>
+    <string name="strAttention">Uwaga</string>
+    <string name="strConfirmRemove">Na pewno usunąć?</string>
+    <string name="srtConfirmPermanUnlock">Na pewno odblokować na stałe?</string>
+    <string name="strYes">Tak</string>
+    <string name="strLockFail">Zablokowano niepomyślnie !</string>
+    <string name="strLockSucceed">Zablokowano pomyślnie !</string>
+    <string name="strUnlockFail">Odblokowano niepomyślnie !</string>
+    <string name="strUnlockSucceed">Zablokowano pomyślnie !</string>
+    <string name="strUserInput">Wprowadzanie użytkownika</string>
+    <string name="strInputMode">Wprowadzanie przez użytkownika?</string>
+    <string name="strLockNameNetwork">Personalizacja Sieci</string>
+    <string name="strLockNameNetworkSub">Personalizacja Podzbioru Sieci</string>
+    <string name="strLockNameService">Personalizacja Dostawcy Sieci</string>
+    <string name="strLockNameCorporate">Personalizacja Firmy</string>
+    <string name="strLockNameSIM">Personalizacja SIM</string>
+    <string name="strActionNameLock">Zablokuj</string>
+    <string name="strActionNameUnlock">Odblokuj</string>
+    <string name="strActionNameAddLock">Dodaj</string>
+    <string name="strActionNameRemoveLock">Usuń</string>
+    <string name="strActionNamePermanentUnlock">Odblokuj na stałe</string>
+    <string name="strPasswordLengthIncorrect">4-8 cyfr!</string>
+    <string name="strQueryFailed">Zapytanie nie powiodło się!</string>
+    <string name="strAddLockFail">Dodanie nie powiodło się!</string>
+    <string name="strAddLockSucceed">Pomyślnie dodano!</string>
+    <string name="strMCCMNCLengthIncorrect">MCC+MNC niepoprawne!</string>
+    <string name="strMCCMNCHLRLengthIncorrect">MCC+MNC+HLR niepoprawne!</string>
+    <string name="strIMSILengthIncorrect">IMSI niepoprawne!</string>
+    <string name="strGID1WRONG">GID1 niepoprawne!</string>
+    <string name="strGID2WRONG">GID2 niepoprawne!</string>
+    <string name="str_simme_passwords_dont_match">Nieprawidłowe hasło</string>
+</resources>

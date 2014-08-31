@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>To włączenie jest ustawione na mniej niż 1 minutę od teraz.</item>
+        <item>To włączenie jest ustawione na %1$s od teraz.</item>
+        <item>To włączenie jest ustawione na %2$s od teraz.</item>
+        <item>To włączenie jest ustawione na %1$s i %2$s od teraz.</item>
+        <item>To włączenie jest ustawione na %3$s od teraz.</item>
+        <item>To włączenie jest ustawione na %1$s i %3$s od teraz.</item>
+        <item>To włączenie jest ustawione nar %2$s i %3$s od teraz.</item>
+        <item>To włączenie jest ustawione na %1$s, %2$s, and %3$s od teraz.</item>
+        <item>To wyłączenie jest ustawione na mniej niż 1 minutę od teraz.</item>
+        <item>To wyłączenie jest ustawione na %1$s od teraz.</item>
+        <item>To wyłączenie jest ustawione na %2$s od teraz.</item>
+        <item>To wyłączenie jest ustawione na %1$s i %2$s od teraz.</item>
+        <item>To wyłączenie jest ustawione na %3$s od teraz.</item>
+        <item>To wyłączenie jest ustawione na %1$s i %3$s od teraz.</item>
+        <item>To wyłączenie jest ustawione na %2$s i %3$s od teraz.</item>
+        <item>To wyłączenie jest ustawione na %1$s, %2$s, i %3$s od teraz.</item>
+    </string-array>
+</resources>

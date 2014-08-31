@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="batteryWarning_label">Ostrzeżenia baterii</string>
+    <string name="title_charger_over_voltage">Ładowanie zbyt wysokim napięciem</string>
+    <string name="title_battery_over_temperature">Zbyt wysoka temperatura baterii</string>
+    <string name="title_over_current_protection">Zabezpieczenia przed przetężeniem</string>
+    <string name="title_battery_over_voltage">Zbyt wysokie napięcie akumulatora</string>
+    <string name="title_safety_timer_timeout">Zbyt długi czas ładowania</string>
+    <string name="msg_charger_over_voltage">Ładowarka podaje zbyt duże napięcie, proszę odłączyć ładowarkę !</string>
+    <string name="msg_battery_over_temperature">Temperatura baterii została przekroczona, proszę wyciągnąć baterie !</string>
+    <string name="msg_over_current_protection">Zbyt duży wzrost natężenia, proszę wyciągnąć baterie !</string>
+    <string name="msg_battery_over_voltage">Zbyt wysokie napięcie na baterii, proszę wyciągnąć baterie !</string>
+    <string name="msg_safety_timer_timeout">Ładowanie trwa zbyt długo, odłącz ładowarkę!</string>
+    <string name="btn_ok_msg">Drzemka</string>
+    <string name="btn_cancel_msg">Odwołanie</string>
+</resources>

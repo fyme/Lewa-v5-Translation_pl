@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Importuj do</string>
+    <string name="import_button">Import</string>
+    <string name="cancel">Anuluj</string>
+    <string name="no_access_toast">Konto nie znalezione, Proszę dodać najpierw konto</string>
+    <string name="null_name">Brak</string>
+    <string name="import_message">Chcesz importować # do kalendarza?</string>
+    <string name="calendar_lable">"Kalendarz: "</string>
+    <string name="date_lable">"Data: "</string>
+    <string name="import_title">Importuj wydarzenia</string>
+    <string name="importing">Importowanie...</string>
+    <string name="import_complete">Importowanie zakończone</string>
+    <string name="open">Otwórz</string>
+    <string name="done">Wykonane</string>
+    <string name="progresszero">0%</string>
+    <string name="progresshundred">100%</string>
+    <string name="import_vcs_failed">Błąd importowania wydarzenia</string>
+    <string name="title_lable">tytuł</string>
+    <string name="no_syncable_calendars">Nie można importować</string>
+    <string name="no_calendars_found">To konto nie wspiera synchronizacji kalendarza lub ostatnia synchronizacja się nie zakończyła.</string>
+    <string name="retry">Ponów</string>
+    <string name="give_up">Przerwij</string>
+    <string name="open_calendar_failed">Kalendarz nie jest dostępny</string>
+</resources>

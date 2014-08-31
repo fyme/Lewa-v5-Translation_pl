@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="modes_array">
+        <item>Przechwytywanie połączeń i SMS</item>
+        <item>Przechwytywanie połączeń</item>
+        <item>Przechwytywanie wiadomości</item>
+    </string-array>
+	<string-array name="number_list">
+        <item>Czarna lista</item>
+        <item>Biała lista</item>
+    </string-array>
+    <string-array name="block_information_list">
+        <item>Wiadomości</item>
+        <item>Połączenia</item>
+    </string-array>
+</resources>

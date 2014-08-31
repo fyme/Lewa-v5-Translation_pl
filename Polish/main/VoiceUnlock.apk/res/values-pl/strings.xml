@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_unlock_options_title">Opcję</string>
+    <string name="voice_unlock_ok_label">OK</string>
+    <string name="voice_unlock_cancel_label">Wróć</string>
+    <string name="voice_unlock_retry_label">Ponów</string>
+    <string name="voice_unlock_record_label">Nagraj</string>
+</resources>
